@@ -37,6 +37,9 @@ The portfolio serves as the foundation of my journey toward becoming a **Full-St
 ---
 ## Preview
 
+
+[click here for the link]( https://liveabhi009.github.io/Portfolio/)
+
 ![image](./img1.png)
 
 ![image](./img2.png)
